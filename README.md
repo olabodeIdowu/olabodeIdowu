@@ -15,7 +15,7 @@
 
 I'm a Senior Full-Stack Engineer who builds high-scale, production-grade systems used by thousands of concurrent users.  
 
-I specialize in **Node.js + TypeScript** backends, **React** dashboards, and **React Native** mobile apps — especially in fintech.  
+I specialize in **Python** **Node.js + TypeScript** backends, **React** dashboards, and **React Native** mobile apps — especially in fintech.  
 
 I care deeply about clean architecture, observability, performance, and shipping features that actually move the needle.
 
